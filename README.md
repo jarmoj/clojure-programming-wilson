@@ -9,6 +9,13 @@ lein run USEWILSON
          USEWILSON = true  (Wilson's algorithm)
                      false (Clojure Programming variant)
 
+### Wilson's Maze Algorithm, one iteration 
+
+![wilson.png](doc/wilson.png)
+
+### Book Variant, one iteration
+![book.png](doc/book.png)
+
 ## License
 
 The source is modified from the book Clojure Programming examples and is distributed with the same license as it uses, the Eclipse Public License.
